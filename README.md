@@ -1,52 +1,46 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+GitHub!" alt="Typing SVG">
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="me.png" alt="Meu avatar" width="180"/>
-</div>
-
-<div align="center">
-  <h3>👋 Olá! Eu sou o Vitor Macedo</h3>
-</div>
-
-<p align="center">
-  Sou estudante de Ciência da Computação (atualmente no 5º semestre) apaixonado por tecnologia e desenvolvimento web. <br>
-  Atuo como freelancer focado em <strong>desenvolvimento front-end</strong>, criando interfaces modernas, responsivas e acessíveis. <br>
-  Tenho experiência com projetos pessoais e colaborações em equipe, sempre buscando boas práticas e qualidade no código. <br><br>
-  Gosto de explorar novas ferramentas e frameworks, participar de desafios de programação e contribuir com a comunidade tech. <br>
-  Estou constantemente aprendendo e aprimorando minhas habilidades para me tornar um profissional cada vez mais completo.
-</p>
-
----
-
-### 🚀 My Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="me.png" alt="Meu avatar" width="180" />
 </div>
 
 ---
 
-### 📬 Contato & Redes
+### Olá, eu sou o Vitor!
 
+🎓 Estudante de **Ciência da Computação (5º semestre)** <br>
+💻 Desenvolvedor **front-end** apaixonado por interfaces modernas e responsivas <br>
+🚀 Foco em aprimoramento constante, resolução de problemas e boas práticas de código <br>
+🎯 Sempre explorando novas tecnologias, frameworks e linguagens <br>
+🤝 Aberto a colaborações, freelas e projetos desafiadores!
+
+---
+
+### 🧰 Tecnologias que uso:
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+</div>
+
+---
+
+### 🌐 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/vitormacedoc/](https://www.linkedin.com/in/vitor-macedo-7884b8271/))
+[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vitor.macedoc2@gmail.com)
+
+---
+
+### 📊 Estatísticas GitHub
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  <a href="https://github.com/VitorMacedoC">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorMacedoC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMacedoC&layout=compact&langs_count=8&theme=tokyonight"/>
   </a>
 </div>
 
