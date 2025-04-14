@@ -32,7 +32,7 @@
 
 ### 🌐 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/vitor-macedo-7884b8271/)
-[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vitor.macedoc2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white&style=for-the-badge)](mailto:macedov836@gmail.com)
 
 ---
 
